@@ -17,10 +17,11 @@ FINS5545 FinTech Project, Part B · z5642204 · Jeremia Mangapul Silitonga
 - **Dictionary** — every term in plain English.
 
 ## Screenshots
-![Home](images/home.png)
-![Find your fund](images/find.png)
-![Simulate](images/simulate.png)
-![Sentiment](images/sentiment.png)
+<img width="1481" height="814" alt="simulate" src="https://github.com/user-attachments/assets/e10593fa-fbdf-4b6a-9ca1-58fd8f7e1f77" />
+<img width="1474" height="799" alt="sentiment" src="https://github.com/user-attachments/assets/ee97ba65-7042-4d4a-a228-e0fab3840ce9" />
+<img width="1378" height="716" alt="home" src="https://github.com/user-attachments/assets/c281b000-b7ca-4035-ab19-308e87660ae5" />
+<img width="1457" height="686" alt="find" src="https://github.com/user-attachments/assets/de50d12c-f9d3-4ddd-9b2e-c5d50b6a0587" />
+
 
 ## The funds
 Nine funds from three universes (equity, crypto, combined) and three methods (maximum Sharpe, minimum variance, risk parity), built with a walk-forward out-of-sample backtest, monthly rebalancing, no look-ahead, 252 and 365 day annualisation, and a risk-free rate of zero.
